@@ -9,7 +9,7 @@
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helderrsantos&layout=compact&theme=tokyonight""/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -30,4 +30,4 @@
    <a target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"><a/>
 </div>
 
-![Snack Animation](https://github.com/helderrsantos)                                                                                              
+![Snack Animation](https://github.com/helderrsantos/helderrsantos/blob/output/github-contribution-grid-snack.svg)                                                                                              
