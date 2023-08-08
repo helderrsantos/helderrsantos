@@ -1,4 +1,5 @@
 ## Olá, eu me chamo Helder Santos 👋
+
 👨‍💻 Trabalho como desenvolvedor Front End
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helder-rodrigo-5b968523a/)
@@ -30,3 +31,4 @@
    <a target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"><a/>
 </div>
                                                                                        
+![Snake animation](https://github.com/helderrsantos/helderrsantos/blob/output/github-contribution-grid-snake.svg)
