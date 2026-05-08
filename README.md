@@ -4,12 +4,6 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helder-rodrigo-5b968523a/)
 
-<!-- <div>
-  <a href="https://github.com/helderrsantos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helderrsantos&show_icons=true&theme=tokyonight"/>    
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helderrsantos&layout=compact&theme=tokyonight""/>
-</div> -->
-
 <div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
