@@ -1,29 +1,88 @@
-## Olá, eu me chamo Helder Santos 👋
+# Olá, eu sou Helder Santos 👋
 
-👨‍💻 Trabalho como desenvolvedor Front End
+### Frontend Developer | React | TypeScript
 
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helder-rodrigo-5b968523a/)
+Desenvolvedor Frontend com experiência na construção de aplicações web modernas, escaláveis e orientadas à qualidade.
 
-<div style="display: inline_block">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+Atuo principalmente com React e TypeScript, desenvolvendo interfaces performáticas, acessíveis e focadas na experiência do usuário. Tenho experiência com arquiteturas frontend modernas, validação de formulários, gerenciamento de estado assíncrono, testes automatizados e observabilidade.
 
-## Tecnologias que utilizo
+Atualmente estou ampliando meus conhecimentos em desenvolvimento backend com **Node.js** e **.NET**, buscando evoluir para uma visão mais completa de arquitetura e desenvolvimento de software.
 
-<div> 
-   <a target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a> 
-   <a target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
-   <a target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a>
-   <a target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a>
-   <a target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>
-   <a target="_blank"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>
-   <a target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" target="_blank"></a>
-   <a target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"><a/>
-</div>
-                                                                                       
+---
 
+## 🚀 Principais Tecnologias
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Qualidade de Software
+
+![Vitest](https://img.shields.io/badge/Vitest-729B1B?style=for-the-badge&logo=vitest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![MSW](https://img.shields.io/badge/MSW-FF6A33?style=for-the-badge)
+
+### Design System & Documentação
+
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Chromatic](https://img.shields.io/badge/Chromatic-FC521F?style=for-the-badge)
+
+### Cloud & Ferramentas
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+---
+
+## 📚 Atualmente estudando
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+- APIs REST com Node.js
+- ASP.NET Core
+- Arquitetura de Software
+- Microsserviços
+- Clean Architecture
+- Boas práticas de Backend
+
+---
+
+## 💡 Áreas de Interesse
+
+- Arquitetura Frontend
+- Design Systems
+- Performance Web
+- Testes Automatizados
+- Observabilidade
+- Developer Experience (DX)
+- Full Stack Development
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=helderrsantos&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=helderrsantos&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=helderrsantos&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Vamos nos conectar
+
+<a href="https://www.linkedin.com/in/helder-rodrigo-5b968523a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Helder%20Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+---
+
+> Gosto de aprender, compartilhar conhecimento e construir soluções que combinam qualidade técnica, experiência do usuário e impacto real no negócio.
