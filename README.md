@@ -140,16 +140,4 @@ Continuar evoluindo como Software Engineer, aprofundando conhecimentos em arquit
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Helder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=helderrsantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=helderrsantos&layout=compact&langs_count=8&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=helderrsantos&theme=tokyonight)
-
-</div>
-
 > Transformando necessidades reais em produtos digitais escaláveis, com foco em qualidade, arquitetura e experiência do usuário.
